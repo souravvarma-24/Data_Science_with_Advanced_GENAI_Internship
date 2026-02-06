@@ -14,7 +14,7 @@ The primary objective is to assess **service reliability, risk factors, and perc
 All project files are organized inside a structured folder:
 
 ```
-📁 Diminos-Delivery-Time-Analysis
+📁 Sourav_419_Data-Science-with-Advanced-GENAI-Internship_Assignment_6
  ├── Task 2 - Diminos Case Study.ipynb
  ├── diminos_data.csv
  ├── README.md
