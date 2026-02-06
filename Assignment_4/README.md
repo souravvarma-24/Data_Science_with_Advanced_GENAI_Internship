@@ -10,7 +10,7 @@ This repository contains solutions to **five advanced Python programming tasks**
 All assignment programs are organized inside a structured folder:
 
 ```
-📁 Sourav_419_Internship_Assignment_4
+📁 Sourav_419_Data-Science-with-Advanced-GENAI-Internship_Assignment_4
  ├── 1_maximum_product.py
  ├── 2_count_teams.py
  ├── 3_homework_students.py
