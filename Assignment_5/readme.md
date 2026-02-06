@@ -4,7 +4,7 @@
 This project analyzes machine learning test scores of students belonging to three different batches.  
 The objective is to understand and compare the performance of each batch using descriptive statistics and visual analysis, and to derive meaningful insights from the data.
 
-This is an open-ended analysis task focused on **insight generation**, not model building.
+This is an open-ended analysis task focused on insight generation rather than model building.
 
 ---
 
@@ -32,27 +32,25 @@ Each row represents the performance of a single student.
 The analysis includes:
 
 - Understanding the overall score distribution
-- Batch-wise comparison of:
-  - Average scores
-  - Score spread and variability
-  - Performance consistency
-- Visualizations to support observations
-- Identification of high-performing and low-performing batches
+- Batch-wise comparison of average scores
+- Analysis of score variability and consistency across batches
+- Visual exploration to support observations
+- Identification of relative strengths and weaknesses among batches
 
 ---
 
 ## 📈 Key Insights
-- Differences in average performance across batches were observed
-- Certain batches showed more consistent performance, while others had higher variability
-- Score distributions helped identify relative strengths and weaknesses of each batch
+- Noticeable differences were observed in average performance across batches
+- Some batches showed more consistent scores, while others had higher variability
+- Score distributions helped in understanding overall batch-level performance trends
 
-(Detailed insights are explained clearly inside the notebook.)
+(Detailed observations and explanations are provided within the notebook.)
 
 ---
 
 ## ✅ Conclusion
-This analysis provides a clear comparison of student performance across three batches.  
-The findings can help instructors understand batch-level performance trends and identify areas that may need academic support or improvement.
+This analysis provides a clear comparison of student performance across three different batches.  
+The insights derived can help instructors and stakeholders understand performance patterns and identify areas for academic improvement.
 
 ---
 
@@ -60,3 +58,7 @@ The findings can help instructors understand batch-level performance trends and 
 - `Task_1_-_Analysis_on_ML_Test_Scores.ipynb` → Complete analysis notebook
 - `scores_data.csv` → Dataset used for analysis
 - `README.md` → Project documentation
+
+---
+
+Feedback in the form of a GitHub star is welcome if this analysis was useful or informative.
