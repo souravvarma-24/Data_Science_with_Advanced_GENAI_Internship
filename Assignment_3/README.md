@@ -10,7 +10,7 @@ This repository contains solutions to **six advanced Python programming tasks**,
 All assignment programs are organized inside a structured folder:
 
 ```
-📁 Sourav_419_Internship_Assignment_3
+📁 Sourav_419_Data-Science-with-Advanced-GENAI-Internship_Assignment_3
  ├── 1_defanging_ip.py
  ├── 2_even_number_digits.py
  ├── 3_number_of_good_pairs.py
