@@ -100,14 +100,14 @@ python 3_kids_with_candies.py
 
 ---
 
-## 🧑‍🎓 Intern Details  
+## 🧑‍🎓 Intern Details
 
 | Field | Information |
-|-------|-------------|
-| **Name** | Sourav Varma Gottumukkala |
-| **Internship** | Data Science Internship – Innomatics Research Labs |
-| **Assignment** | Advance Python Programming - Programming Task 1 |
-| **Date** | December 2025 |
+|------|-------------|
+| Name | Sourav Varma Gottumukkala |
+| Assignment | Advance Python Programming - Programming Task 1 |
+| Internship | Data Science Internship |
+| Organization | Innomatics Research Labs |
 
 ---
 
@@ -120,7 +120,7 @@ This repository showcases advanced understanding of:
 - Clean and modular coding practices  
 - GitHub repository management  
 
-This completes **Internship Assignment – 2** successfully
+**This completes Internship Assignment => Advance Python Programming - Programming Task 1 successfully.**
 
 ---
 
