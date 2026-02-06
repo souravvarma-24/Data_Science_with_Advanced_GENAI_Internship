@@ -155,11 +155,11 @@ python 6_xor_operation_array.py
 ## 🧑‍🎓 Intern Details
 
 | Field | Information |
-|-------|-------------|
-| **Name** | Sourav Varma Gottumukkala |
-| **Internship** | Data Science Internship – Innomatics Research Labs |
-| **Assignment** | Advance (EDA) Python Programming - Programming Task 2 |
-| **Date** | December 2025 |
+|------|-------------|
+| Name | Sourav Varma Gottumukkala |
+| Assignment | Advance (EDA) Python Programming - Programming Task 2 |
+| Internship | Data Science Internship |
+| Organization | Innomatics Research Labs |
 
 ---
 
@@ -174,7 +174,7 @@ This repository demonstrates strong understanding of:
 - Clean, modular Python coding  
 - GitHub project management  
 
-This completes **Internship Assignment – 3** successfully.
+**This completes Internship Assignment => Advance (EDA) Python Programming - Programming Task 2 successfully.**
 
 ---
 
