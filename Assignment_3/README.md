@@ -152,14 +152,12 @@ python 6_xor_operation_array.py
 
 ---
 
-## 🧑‍🎓 Intern Details
-
 | Field | Information |
 |------|-------------|
-| Name | Sourav Varma Gottumukkala |
-| Assignment | Advance (EDA) Python Programming - Programming Task 2 |
-| Internship | Data Science Internship |
-| Organization | Innomatics Research Labs |
+| **Name** | Sourav Varma Gottumukkala |
+| **Assignment** | Advance (EDA) Python Programming - Programming Task 2 |
+| **Internship** | Data Science Internship |
+| **Organization** | Innomatics Research Labs |
 
 ---
 
