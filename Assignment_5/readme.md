@@ -14,7 +14,7 @@ All project files are organized inside a structured folder:
 
 ```
 📁 ML-Test-Scores-Analysis
- ├── Task_1_-_Analysis_on_ML_Test_Scores.ipynb
+ ├── Task 1 - Analysis on ML Test Scores.ipynb
  ├── scores_data.csv
  ├── README.md
  └── requirements.txt
