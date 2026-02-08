@@ -10,15 +10,18 @@ The objective of this task is to understand **Flask form handling, POST requests
 
 ## 📁 Project Structure
 
-All project files are organized in a clean and structured format as shown below.
+All assignment programs are organized as separate Python files:
 
-Sourav_419_Data-Science-with-Advanced-GENAI-Internship_Assignment_8
-├── app.py  
-├── flask_task_2.png  
-└── templates/  
-  └── index.html
+```
+📁 Sourav_419_Data-Science-with-Advanced-GENAI-Internship_Assignment_8
+│
+├── app.py
+├── flask_task_2.png
+└── templates
+    └── index.html
+```
 
-Each file contributes directly to the functionality and presentation of the application.
+Each file contributes directly to the functionality of the application.
 
 ---
 
