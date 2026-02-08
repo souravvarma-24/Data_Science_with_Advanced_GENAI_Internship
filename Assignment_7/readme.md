@@ -10,11 +10,14 @@ The objective of this task is to understand Flask routing, query parameter extra
 
 ## 📁 Project Structure
 
-All project files are organized in a clean and minimal structure as shown below.
+All project files are organized in a clean and minimal structure as shown below:
 
-flask-username-uppercase/  
-├── app.py  
-└── README.md  
+```
+📁 Sourav_419_Data-Science-with-Advanced-GENAI-Internship_Assignment_7
+│
+├── app.py
+└── README.md
+```
 
 Each file plays a specific role in demonstrating the working of the Flask application.
 
