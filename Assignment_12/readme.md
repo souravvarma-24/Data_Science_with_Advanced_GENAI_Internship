@@ -4,6 +4,8 @@
 
 **Innomatics Research Labs – Data Science Internship**
 
+---
+
 This repository contains an end-to-end **Sentiment Analysis project** built on real-time Flipkart product reviews. The project focuses on classifying customer reviews as **Positive or Negative** and understanding customer pain points through sentiment-based analysis.
 
 A trained machine learning model is integrated into a **Streamlit web application** that performs real-time sentiment prediction based on user-provided review text.
